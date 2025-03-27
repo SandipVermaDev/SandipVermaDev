@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Sandip's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=SandipVermaDev&theme=radical)  
+![Sandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandipVermaDev&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipVermaDev&layout=compact&theme=radical)
 
 ---
