@@ -18,7 +18,7 @@
 - **Languages:** Python, SQL
 - **ML & Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Data Analytics & BI:** Power BI, Excel
-- **Tools & Platforms:** Git, GitHub, Jupyter Notebook, VS Code
+- **Tools & Platforms:** Jupyter Notebook, VS Code
 
 ---
 
