@@ -25,6 +25,7 @@
 ## 📌 Featured Projects
 🔹 **[Car Price Prediction](https://github.com/SandipVermaDev/car-price-prediction)** – ML model predicting car prices.  
 🔹 **[EDA on Telecom Customer Churn](https://github.com/SandipVermaDev/Telecom-Customer-Churn-EDA)** – Exploratory Data Analysis report.  
+🔹 **[OLA Data Analysis](https://github.com/SandipVermaDev/Ola-Data-Analysis)** – OLA Data Analysis Project (SQL, Excel, Power BI).  
 
 *(More projects available on my [GitHub](https://github.com/SandipVermaDev))*
 
