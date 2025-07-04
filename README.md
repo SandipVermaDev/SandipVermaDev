@@ -23,8 +23,7 @@
 ---
 
 ## 📌 Featured Projects
-🔹 **[Telecom Customer Churn Prediction](https://github.com/SandipVermaDev/Telecom-Customer-Churn-Prediction)** – Machine learning model for predicting customer churn in the telecom industry. 
-&emsp;&emsp;🔗 [Live Demo](https://telecom-customer-churn-prediction-sandip.streamlit.app/)
+🔹 **[Telecom Customer Churn Prediction](https://github.com/SandipVermaDev/Telecom-Customer-Churn-Prediction)** – Machine learning model for predicting customer churn in the telecom industry.🔗 [Live Demo](https://telecom-customer-churn-prediction-sandip.streamlit.app/)
 🔹 **[Car Price Prediction](https://github.com/SandipVermaDev/car-price-prediction)** – ML model predicting car prices.   
 🔹 **[OLA Data Analysis](https://github.com/SandipVermaDev/Ola-Data-Analysis)** – OLA Data Analysis Project (SQL, Excel, Power BI).  
 
@@ -33,13 +32,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Sandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandipVermaDev&show_icons=true&theme=radical)  
+<!--- ![Sandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandipVermaDev&show_icons=true&theme=radical) --->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipVermaDev&layout=compact&theme=radical)
 
----
-
-## 📖 Current Learning
-🔸 **Data Science & Machine Learning** – Improving my ML skills and working on real-world projects.
 
 ---
 
