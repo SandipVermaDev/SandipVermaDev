@@ -1,6 +1,6 @@
 # Hi there, I'm Sandip Verma! 👋
 
-🚀 **Aspiring Data Analyst | Data Scientist | Machine Learning Engineer**  
+🚀 **Aspiring Data Scientist | Machine Learning Engineer | Data Analyst**  
 💡 Passionate about **Data-Driven Solutions** and always eager to learn!  
 💻 **Python | SQL | Power BI | Excel | Pandas | NumPy | Scikit-learn**  
 
@@ -23,17 +23,18 @@
 ---
 
 ## 📌 Featured Projects
-🔹 **[Car Price Prediction](https://github.com/SandipVermaDev/car-price-prediction)** – ML model predicting car prices.  
-🔹 **[EDA on Telecom Customer Churn](https://github.com/SandipVermaDev/Telecom-Customer-Churn-EDA)** – Exploratory Data Analysis report.  
+🔹 **[Telecom Customer Churn Prediction](https://github.com/SandipVermaDev/Telecom-Customer-Churn-Prediction)** – Machine learning model for predicting customer churn in the telecom industry. 
+&emsp;&emsp;🔗 [Live Demo](https://telecom-customer-churn-prediction-sandip.streamlit.app/)
+🔹 **[Car Price Prediction](https://github.com/SandipVermaDev/car-price-prediction)** – ML model predicting car prices.   
 🔹 **[OLA Data Analysis](https://github.com/SandipVermaDev/Ola-Data-Analysis)** – OLA Data Analysis Project (SQL, Excel, Power BI).  
 
 *(More projects available on my [GitHub](https://github.com/SandipVermaDev))*
 
 ---
 
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 ![Sandip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandipVermaDev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipVermaDev&layout=compact&theme=radical)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipVermaDev&layout=compact&theme=radical)
 
 ---
 
