@@ -23,9 +23,14 @@
 ---
 
 ## 📌 Featured Projects
-🔹 **[Telecom Customer Churn Prediction](https://github.com/SandipVermaDev/Telecom-Customer-Churn-Prediction)** – Machine learning model for predicting customer churn in the telecom industry.🔗 [Live Demo](https://telecom-customer-churn-prediction-sandip.streamlit.app/)
-🔹 **[Car Price Prediction](https://github.com/SandipVermaDev/car-price-prediction)** – ML model predicting car prices.   
-🔹 **[OLA Data Analysis](https://github.com/SandipVermaDev/Ola-Data-Analysis)** – OLA Data Analysis Project (SQL, Excel, Power BI).  
+
+🔹 **[Telecom Customer Churn Prediction](https://github.com/SandipVermaDev/Telecom-Customer-Churn-Prediction)** – Machine learning model for predicting customer churn in the telecom industry.  
+🔗 [Live Demo](https://telecom-customer-churn-prediction-sandip.streamlit.app/)
+
+🔹 **[Car Price Prediction](https://github.com/SandipVermaDev/car-price-prediction)** – ML model predicting car prices.  
+
+🔹 **[OLA Data Analysis](https://github.com/SandipVermaDev/Ola-Data-Analysis)** – OLA Data Analysis Project (SQL, Excel, Power BI).
+
 
 *(More projects available on my [GitHub](https://github.com/SandipVermaDev))*
 
