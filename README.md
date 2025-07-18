@@ -62,8 +62,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandipVermaDev&show_icons=true&theme=radical" alt="Sandip's GitHub Stats" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandipVermaDev&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
