@@ -23,35 +23,48 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 | <b>Languages</b> | <b>ML & Data Science</b> | <b>Analytics & BI</b> | <b>Tools & Platforms</b> |
 | :---: | :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) <br> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <br> ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) <br> ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) <br> ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) <br> ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" /> | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) <br> ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) <br> <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> |
+
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
+<div align="center">
 <table>
   <tr>
     <td>
-      <b>🔹 <a href="https://github.com/SandipVermaDev/Telecom-Customer-Churn-Prediction">Telecom Customer Churn Prediction</a></b><br>
-      <i>Machine learning model for predicting customer churn in the telecom industry.</i><br>
-      <a href="https://telecom-customer-churn-prediction-sandip.streamlit.app/">🚀 Live Demo</a>
+      <b>📄🤖 <a href="https://github.com/SandipVermaDev/DocBlinker">DocBlinker</a></b><br>
+      <i>Chat with your PDF and Word documents using AI! Upload, ask, and get instant answers from your files.</i><br>
+      <a href="https://docblinker-ai.streamlit.app/">🌐 Live Demo</a>
     </td>
   </tr>
   <tr>
     <td>
-      <b>🔹 <a href="https://github.com/SandipVermaDev/car-price-prediction">Car Price Prediction</a></b><br>
+      <b>📞 <a href="https://github.com/SandipVermaDev/Telecom-Customer-Churn-Prediction">Telecom Customer Churn Prediction</a></b><br>
+      <i>Machine learning model for predicting customer churn in the telecom industry.</i><br>
+      <a href="https://telecom-customer-churn-prediction-sandip.streamlit.app/">🌐 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>🚗 <a href="https://github.com/SandipVermaDev/car-price-prediction">Car Price Prediction</a></b><br>
       <i>ML model predicting car prices using regression techniques.</i>
     </td>
   </tr>
   <tr>
     <td>
-      <b>🔹 <a href="https://github.com/SandipVermaDev/Ola-Data-Analysis">OLA Data Analysis</a></b><br>
+      <b>🚕 <a href="https://github.com/SandipVermaDev/Ola-Data-Analysis">OLA Data Analysis</a></b><br>
       <i>Comprehensive data analysis project using SQL, Excel, and Power BI.</i>
     </td>
-  </tr>
+  </tr>   
 </table>
+</div>
 
 <p align="center">
   <i>✨ More projects available on my <a href="https://github.com/SandipVermaDev">GitHub</a>! ✨</i>
